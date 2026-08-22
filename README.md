@@ -1,16 +1,107 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Gustavo Henrique Forte
 
-<!--
-**gustavohenfor/gustavohenfor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudante de Engenharia de Software**
+💻 Desenvolvedor em formação 
+📊 Interesse em **Desenvolvimento de Software, Dados e Tecnologia**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Sou estudante de **Engenharia de Software**, com experiência prática em projetos acadêmicos e pessoais envolvendo desenvolvimento web, backend e bancos de dados.
+
+Atualmente venho aprofundando meus conhecimentos em **Node.js, Express, JavaScript, SQL e MySQL**, além de fundamentos de programação, estruturas de dados, testes de software e desenvolvimento de APIs.
+
+Também possuo formação técnica em **Administração**, experiência profissional na área administrativa e certificação **CPA-10**, unindo conhecimentos de tecnologia, negócios e processos.
+
+---
+
+## 💻 Tecnologias
+
+### Linguagens
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+</p>
+
+### Backend
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express"/>
+</p>
+
+### Banco de Dados
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="40" height="40" alt="MariaDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle Database"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="SQL Server"/>
+</p>
+
+### Ferramentas
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
+</p>
+
+---
+
+## 🛠️ Conhecimentos
+
+* SQL e modelagem de bancos de dados
+* MySQL, SQL SERVER, OracleDB 
+* Git e GitHub
+* Estruturas de dados e algoritmos
+* Lógica de Programação
+* Node.js e Express
+* Desenvolvimento de aplicações web
+
+---
+
+## 🚀 Projetos em destaque
+
+### 🎬 Shortz-App
+
+Aplicação web desenvolvida com **Node.js, Express, EJS e MySQL/MariaDB**, envolvendo autenticação de usuários, vídeos, comentários, curtidas, playlists e relacionamentos entre entidades.
+
+**Tecnologias:** Node.js • Express • Sequelize • MySQL • EJS • JavaScript
+
+---
+
+### 🛒 TechZone
+
+Projeto de desenvolvimento de uma interface para uma loja de eletrônicos, trabalhando conceitos de **HTML, CSS, UI/UX e prototipação no Figma**.
+
+**Tecnologias:** HTML • CSS • JavaScript • Figma
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gustavohenfor&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohenfor&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## 📫 Contato
+
+<p>
+  <a href="https://github.com/gustavohenfor">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  💻 <i>Sempre aprendendo, desenvolvendo e evoluindo.</i>
+</p>
