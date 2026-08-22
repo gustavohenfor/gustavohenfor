@@ -1,7 +1,6 @@
-🎓 **Estudante de Engenharia de Software**
-💻 Desenvolvedor em formação 
+🎓 **Estudante de Engenharia de Software**<br>
+💻 Desenvolvedor em formação <br>
 📊 Interesse em **Desenvolvimento de Software, Dados e Tecnologia**
-
 
 ## 💻 Tecnologias
 
@@ -68,16 +67,7 @@ Projeto de desenvolvimento de uma interface para uma loja de eletrônicos, traba
 
 **Tecnologias:** HTML • CSS • JavaScript • Figma
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gustavohenfor&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohenfor&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
----
 
 ## 📫 Contato
 
