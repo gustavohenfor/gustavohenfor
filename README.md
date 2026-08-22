@@ -1,20 +1,7 @@
-# 👋 Olá! Eu sou Gustavo Henrique Forte
-
 🎓 **Estudante de Engenharia de Software**
 💻 Desenvolvedor em formação 
 📊 Interesse em **Desenvolvimento de Software, Dados e Tecnologia**
 
----
-
-## 🚀 Sobre mim
-
-Sou estudante de **Engenharia de Software**, com experiência prática em projetos acadêmicos e pessoais envolvendo desenvolvimento web, backend e bancos de dados.
-
-Atualmente venho aprofundando meus conhecimentos em **Node.js, Express, JavaScript, SQL e MySQL**, além de fundamentos de programação, estruturas de dados, testes de software e desenvolvimento de APIs.
-
-Também possuo formação técnica em **Administração**, experiência profissional na área administrativa e certificação **CPA-10**, unindo conhecimentos de tecnologia, negócios e processos.
-
----
 
 ## 💻 Tecnologias
 
