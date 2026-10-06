@@ -1,6 +1,5 @@
 🎓 **Estudante de Engenharia de Software**<br>
 💻 Desenvolvedor em formação <br>
-📊 Interesse em **Desenvolvimento de Software, Dados e Tecnologia**
 
 ## 💻 Tecnologias
 
@@ -47,6 +46,7 @@
 * MySQL, SQL SERVER, OracleDB 
 * Git e GitHub
 * Estruturas de dados e algoritmos
+* Java 
 * Lógica de Programação
 * Node.js e Express
 * Desenvolvimento de aplicações web
@@ -82,5 +82,5 @@ Projeto de desenvolvimento de uma interface para uma loja de eletrônicos, traba
 ---
 
 <p align="center">
-  💻 <i>Sempre aprendendo, desenvolvendo e evoluindo.</i>
+  💻 <i>Sempre aprendendo, desenvolvendo e evoluindo !!</i>
 </p>
