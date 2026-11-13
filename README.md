@@ -7,7 +7,7 @@
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40" alt="Dart"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/>
@@ -45,10 +45,8 @@
 * SQL e modelagem de bancos de dados
 * MySQL, SQL SERVER, OracleDB 
 * Git e GitHub
-* Estruturas de dados e algoritmos
-* Java 
-* Lógica de Programação
-* Node.js e Express
+* Estruturas de dados, algoritmos e POO
+* Foco em Java e Node.js
 * Desenvolvimento de aplicações web
 
 ---
@@ -82,5 +80,5 @@ Projeto de desenvolvimento de uma interface para uma loja de eletrônicos, traba
 ---
 
 <p align="center">
-  💻 <i>Sempre aprendendo, desenvolvendo e evoluindo !!</i>
+  💻 <i> Conhecimento é base para solucionar problemas reais. </i>
 </p>
