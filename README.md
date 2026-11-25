@@ -63,7 +63,7 @@ Aplicação web desenvolvida com **Node.js, Express, EJS e MySQL/MariaDB**, envo
 
 ### 🛒 TechZone
 
-Projeto de desenvolvimento de uma interface para uma loja de eletrônicos, trabalhando conceitos de **HTML, CSS, UI/UX e prototipação no Figma**.
+Projeto de desenvolvimento de uma interface para uma loja de eletrônicos, trabalhando conceitos de **HTML, CSS, UI/UX e com prototipação no Figma**.
 
 **Tecnologias:** HTML • CSS • JavaScript • Figma
 
